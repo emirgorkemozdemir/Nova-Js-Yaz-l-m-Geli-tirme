@@ -1,0 +1,6 @@
+Iterable demek tek tek ögelerine erişilebilen
+nesne demektir. Bir nesne iterable ise o nesnede
+birden fazla veri bulunmaktadır.
+
+Iteration => tek tek dolaşma işlemi
+iterate
